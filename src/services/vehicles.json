@@ -1,0 +1,114 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "name": "Vehicle #1",
+      "driver_name": "Pupkin Vasyiliy",
+      "phone_number": "1234567890",
+      "category": "Cargo",
+      "location": {
+        "latitude": 40.1872,
+        "longitude": 44.5152
+      }
+    },
+    {
+      "id": 2,
+      "name": "Vehicle #2",
+      "driver_name": "Petrov Petr",
+      "phone_number": "0987654321",
+      "category": "Passenger",
+      "location": {
+        "latitude": 40.1772,
+        "longitude": 44.5012
+      }
+    },
+    {
+      "id": 3,
+      "name": "Vehicle #3",
+      "driver_name": "Sidorov Alexey",
+      "phone_number": "9876543210",
+      "category": "Special",
+      "location": {
+        "latitude": 40.1700,
+        "longitude": 44.5120
+      }
+    },
+    {
+      "id": 4,
+      "name": "Vehicle #4",
+      "driver_name": "Kozlov Dmitry",
+      "phone_number": "0123456789",
+      "category": "Cargo",
+      "location": {
+        "latitude": 40.1472,
+        "longitude": 44.5552
+      }
+    },
+    {
+      "id": 5,
+      "name": "Vehicle #5",
+      "driver_name": "Nikolaev Andrey",
+      "phone_number": "9876543210",
+      "category": "Passenger",
+      "location": {
+        "latitude": 40.1982,
+        "longitude": 44.5112
+      }
+    },
+    {
+      "id": 6,
+      "name": "Vehicle #6",
+      "driver_name": "Bogdanov Sergey",
+      "phone_number": "1234567890",
+      "category": "Special",
+      "location": {
+        "latitude": 40.1612,
+        "longitude": 44.5132
+      }
+    },
+    {
+      "id": 7,
+      "name": "Vehicle #7",
+      "driver_name": "Smirnov Igor",
+      "phone_number": "0123456789",
+      "category": "Cargo",
+      "location": {
+        "latitude": 40.1990,
+        "longitude": 44.5212
+      }
+    },
+    {
+      "id": 8,
+      "name": "Vehicle #8",
+      "driver_name": "Kuznetsov Alexander",
+      "phone_number": "0987654321",
+      "category": "Passenger",
+      "location": {
+        "latitude": 40.1672,
+        "longitude": 44.5352
+      }
+    },
+    {
+      "id": 9,
+      "name": "Vehicle #9",
+      "driver_name": "Grigoriev Denis",
+      "phone_number": "9876543210",
+      "category": "Special",
+      "location": {
+        "latitude": 40.1672,
+        "longitude": 44.4952
+      }
+    },
+    {
+      "id": 10,
+      "name": "Vehicle #10",
+      "driver_name": "Morozov Evgeny",
+      "phone_number": "0123456789",
+      "category": "Cargo",
+      "location": {
+        "latitude": 40.1782,
+        "longitude": 44.5112
+      }
+    }
+  ]
+}
